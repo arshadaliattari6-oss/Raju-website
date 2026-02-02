@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <title>রাজু অ্যাডমিন কন্ট্রোল</title>
+    <style>
+        body { font-family: sans-serif; background-color: #2c3e50; color: white; padding: 40px; }
+        .admin-panel { background: #34495e; padding: 20px; border-radius: 10px; border-left: 5px solid #3498db; }
+        h2 { border-bottom: 1px solid #5d6d7e; padding-bottom: 10px; }
+        .control-btn { padding: 10px 20px; background: #e74c3c; color: white; border: none; border-radius: 5px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <div class="admin-panel">
+        <h2>রাজু অ্যাডমিন ড্যাশবোর্ড</h2>
+        <p>এখান থেকে আপনি ইউজারদের লিঙ্ক এবং ডাটা নিয়ন্ত্রণ করতে পারবেন।</p>
+        <button class="control-btn" onclick="alert('সিস্টেম আপডেট হচ্ছে...')">সিস্টেম আপডেট করুন</button>
+    </div>
+</body>
+</html>
