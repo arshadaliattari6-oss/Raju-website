@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>রাজু অফিশিয়াল ওয়েবসাইট</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center; background-color: #eef2f3; margin: 0; padding: 20px; }
+        .card { background: white; padding: 40px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.1); display: inline-block; margin-top: 50px; }
+        h1 { color: #2c3e50; }
+        p { color: #7f8c8d; font-size: 18px; }
+        .btn { display: inline-block; padding: 15px 30px; background: #3498db; color: white; text-decoration: none; border-radius: 25px; font-weight: bold; transition: 0.3s; }
+        .btn:hover { background: #2980b9; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>রাজু অফিশিয়াল গেমিং ওয়েবসাইট</h1>
+        <p>আমাদের গেম খেলুন এবং নতুন সব আপডেট পেতে সাথে থাকুন।</p>
+        <a href="https://t.me/yourlink" class="btn">এখনই জয়েন করুন</a>
+    </div>
+</body>
+</html>
